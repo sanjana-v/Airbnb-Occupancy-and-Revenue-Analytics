@@ -66,11 +66,6 @@ We leveraged **PySpark** for scalable ML modeling:
 3. **Location Preferences:** Outskirts of Los Angeles had **higher occupancy rates** than downtown.
 4. **Pricing Strategy:** High-end unique stays had **low occupancy** but **higher prices**, targeting niche travelers.
 
-## Recommendations for Airbnb Hosts
-- **Add Key Amenities:** Increase occupancy by offering **Wi-Fi, heating/cooling, parking, and child-friendly amenities**.
-- **Invest in Shared Accommodations:** These have **highest occupancy rates**, ensuring steady revenue.
-- **Consider Outskirts for Investments:** High occupancy was observed in **outer LA regions**, rather than posh neighborhoods.
-- **Optimize Pricing Strategies:** Listings with **higher amenities and safety features** can justify premium pricing.
 
 ## Revenue Prediction
 - Forecasted revenue for **next 90 days** by multiplying **predicted price × occupancy**.
@@ -81,9 +76,3 @@ We leveraged **PySpark** for scalable ML modeling:
 - **Machine Learning:** Scikit-learn, PySpark MLlib
 - **Visualization:** Matplotlib, Seaborn, Tableau
 - **Data Storage:** CSV, JSON
-
-## Contributors
-- **Jill Karia**
-- **Advait Narvekar**
-- **Punami Chowdary**
-- **Soundarya Ravi**
